@@ -10,7 +10,7 @@ public class TC_03_Test extends Baseclass{
 	{
 	  login.getLoginLink().click();
 	  login.getEmailTF().sendKeys("sahana@gmail.com");
-	  login.getPasswodTF().sendKeys("12345678");
+	  login.getPasswodTF().sendKeys("87654321");
 	  login.getLoginButton().click();
 	}
 
