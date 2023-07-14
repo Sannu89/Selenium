@@ -18,5 +18,5 @@ public class TC_01_Test extends Baseclass
 		login.getLoginButton().click();
 		}
 	
-	}
+}
 

@@ -11,7 +11,7 @@ public class TC_02_Test extends Baseclass
 	public void RegisteringUser()
 	{
 		register.getRegisterLink().click();
-		register.getFirstnameTF().sendKeys("sahana");
+		register.getFirstnameTF().sendKeys("sannu");
 		register.getLastnameTF().sendKeys("s");
 		register.getEmailTF().sendKeys("sahana@gmail.com");
 		register.getPasswordTF().sendKeys("12345678");
